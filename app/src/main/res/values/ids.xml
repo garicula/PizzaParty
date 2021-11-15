@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="light_radio_button" type="id" />
+    <item name="medium_radio_button" type="id" />
+    <item name="num_attend_edit_text" type="id" />
+    <item name="num_pizzas_text_view" type="id" />
+    <item name="large_radio_button" type="id" />
+    <item name="mediumSize_radio_button" type="id" />
+    <item name="small_radio_button" type="id" />
+    <item name="size_radio_group" type="id" />
+</resources>
